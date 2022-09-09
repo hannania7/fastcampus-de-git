@@ -1,2 +1,2 @@
-# fastcampuss-de-gitt
+# fastcampus-de-git
 Fastcampus DE git section
